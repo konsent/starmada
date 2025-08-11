@@ -1,0 +1,528 @@
+Eng,Kor
+,
+Blank,/resources/목표 카드/Objective.webp
+,
+Imperial,/resources/목표 카드/Imperial.webp
+Rebel,/resources/목표 카드/Rebel.webp
+Republic,/resources/목표 카드/Republic.webp
+Separatist,/resources/목표 카드/Separatist.webp
+,
+Objective (Assualt),목표 (공격)
+Advanced Gunnery,/resources/목표 카드/목표 (공격)/포격 증강.webp
+Blockade Run,/resources/목표 카드/목표 (공격)/봉쇄선 돌파.webp
+Close-Range Intel Scan,/resources/목표 카드/목표 (공격)/근거리 정보 탐지.webp
+Ion Storm,/resources/목표 카드/목표 (공격)/이온 폭풍.webp
+Marked for Destruction,/resources/목표 카드/목표 (공격)/파멸의 표식.webp
+Most Wanted,/resources/목표 카드/목표 (공격)/지명 수배자.webp
+Opening Salvo,/resources/목표 카드/목표 (공격)/개시 사격.webp
+Precision Strike,/resources/목표 카드/목표 (공격)/정밀 타격.webp
+Rift Assault,/resources/목표 카드/목표 (공격)/균열 공격.webp
+Station Assault,/resources/목표 카드/목표 (공격)/우주 정거장 공격.webp
+Surprise Attack,/resources/목표 카드/목표 (공격)/기습 공격.webp
+Targeting Beacons,/resources/목표 카드/목표 (공격)/조준용 표지.webp
+포격 증강,/resources/목표 카드/목표 (공격)/포격 증강.webp
+봉쇄선 돌파,/resources/목표 카드/목표 (공격)/봉쇄선 돌파.webp
+근거리 정보 탐지,/resources/목표 카드/목표 (공격)/근거리 정보 탐지.webp
+이온 폭풍,/resources/목표 카드/목표 (공격)/이온 폭풍.webp
+파멸의 표식,/resources/목표 카드/목표 (공격)/파멸의 표식.webp
+지명 수배자,/resources/목표 카드/목표 (공격)/지명 수배자.webp
+개시 사격,/resources/목표 카드/목표 (공격)/개시 사격.webp
+정밀 타격,/resources/목표 카드/목표 (공격)/정밀 타격.webp
+균열 공격,/resources/목표 카드/목표 (공격)/균열 공격.webp
+우주 정거장 공격,/resources/목표 카드/목표 (공격)/우주 정거장 공격.webp
+기습 공격,/resources/목표 카드/목표 (공격)/기습 공격.webp
+조준용 표지,/resources/목표 카드/목표 (공격)/조준용 표지.webp
+,
+Objective (Defense),목표 (방어)
+Abandoned Mining Facility,/resources/목표 카드/목표 (수비)/폐광산 시설.webp
+Asteroid Tactics,/resources/목표 카드/목표 (수비)/소행성대 전술.webp
+Capture the VIP,/resources/목표 카드/목표 (수비)/VIP 생포.webp
+Contested Outpost,/resources/목표 카드/목표 (수비)/전초 기지 경쟁.webp
+Fighter Ambush,/resources/목표 카드/목표 (수비)/전투기 매복.webp
+Fire Lanes,/resources/목표 카드/목표 (수비)/화력 유도.webp
+Fleet Ambush,/resources/목표 카드/목표 (수비)/함대 매복.webp
+Fleet In Being,/resources/목표 카드/목표 (수비)/현존함대.webp
+Hyperspace Assault,/resources/목표 카드/목표 (수비)/초공간 강습.webp
+Jamming Barrier,/resources/목표 카드/목표 (수비)/교란 장벽.webp
+Planetary Ion Cannon,/resources/목표 카드/목표 (수비)/행성 이온포.webp
+Rift Ambush,/resources/목표 카드/목표 (수비)/균열 매복.webp
+폐광산 시설,/resources/목표 카드/목표 (수비)/폐광산 시설.webp
+소행성대 전술,/resources/목표 카드/목표 (수비)/소행성대 전술.webp
+VIP 생포,/resources/목표 카드/목표 (수비)/VIP 생포.webp
+전초 기지 경쟁,/resources/목표 카드/목표 (수비)/전초 기지 경쟁.webp
+전투기 매복,/resources/목표 카드/목표 (수비)/전투기 매복.webp
+화력 유도,/resources/목표 카드/목표 (수비)/화력 유도.webp
+함대 매복,/resources/목표 카드/목표 (수비)/함대 매복.webp
+현존함대,/resources/목표 카드/목표 (수비)/현존함대.webp
+초공간 강습,/resources/목표 카드/목표 (수비)/초공간 강습.webp
+교란 장벽,/resources/목표 카드/목표 (수비)/교란 장벽.webp
+행성 이온포,/resources/목표 카드/목표 (수비)/행성 이온포.webp
+균열 매복,/resources/목표 카드/목표 (수비)/균열 매복.webp
+,
+Objective (Navigation),목표 (항해)
+Dangerous Territory,/resources/목표 카드/목표 (항해)/위험 지역.webp
+Doomed Station,/resources/목표 카드/목표 (항해)/저주받은 우주 정거장.webp
+Hyperspace Migration,/resources/목표 카드/목표 (항해)/초공간 이주.webp
+Infested Fields,/resources/목표 카드/목표 (항해)/들끓는 우주.webp
+Intel Sweep,/resources/목표 카드/목표 (항해)/정보 수집.webp
+Minefields,/resources/목표 카드/목표 (항해)/기뢰 부설 지역.webp
+Navigational Hazards,/resources/목표 카드/목표 (항해)/항행 위협.webp
+Salvage Run,/resources/목표 카드/목표 (항해)/구호품 보급.webp
+Sensor Net,/resources/목표 카드/목표 (항해)/센서 망.webp
+Solar Corona,/resources/목표 카드/목표 (항해)/태양 코로나.webp
+Superior Positions,/resources/목표 카드/목표 (항해)/지리적 우위.webp
+Volatile Deposits,/resources/목표 카드/목표 (항해)/불안정한 광산.webp
+위험 지역,/resources/목표 카드/목표 (항해)/위험 지역.webp
+저주받은 우주 정거장,/resources/목표 카드/목표 (항해)/저주받은 우주 정거장.webp
+초공간 이주,/resources/목표 카드/목표 (항해)/초공간 이주.webp
+들끓는 우주,/resources/목표 카드/목표 (항해)/들끓는 우주.webp
+정보 수집,/resources/목표 카드/목표 (항해)/정보 수집.webp
+기뢰 부설 지역,/resources/목표 카드/목표 (항해)/기뢰 부설 지역.webp
+항행 위협,/resources/목표 카드/목표 (항해)/항행 위협.webp
+구호품 보급,/resources/목표 카드/목표 (항해)/구호품 보급.webp
+센서 망,/resources/목표 카드/목표 (항해)/센서 망.webp
+태양 코로나,/resources/목표 카드/목표 (항해)/태양 코로나.webp
+지리적 우위,/resources/목표 카드/목표 (항해)/지리적 우위.webp
+불안정한 광산,/resources/목표 카드/목표 (항해)/불안정한 광산.webp
+,
+,
+,
+Ship (Imperial),함선 (제국)
+Arquitens Command Cruiser (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 사령 순양함.webp
+Arquitens Light Cruiser (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 경 순양함.webp
+Gladiator I (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 1급 은하 구축함.webp
+Gladiator II (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 2급 은하 구축함.webp
+Gozanti Assault Carriers (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 강습 수송함.webp
+Gozanti Cruisers (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 순양함.webp
+Imperial I (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 1급 은하 구축함.webp
+Imperial II (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 2급 은하 구축함.webp
+ISD Cymoon 1 Refit (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 사이문 1 개수형.webp
+ISD Kuat Refit (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 쿠앗 개수형.webp
+Interdictor Combat Refit (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 전투형 개수함.webp
+Interdictor Suppression Refit (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 진압형 개수함.webp
+Onager Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 은하 구축함.webp
+Onager Testbed (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 실험함.webp
+Quasar Fire I (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 1급 순양 모함.webp
+Quasar Fire II (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 2급 순양 모함.webp
+Raider I (Imperial),/resources/함선 카드/함선 (제국)/레이더 1급 초계함.webp
+Raider II (Imperial),/resources/함선 카드/함선 (제국)/레이더 2급 초계함.webp
+Venator II (Imperial),/resources/함선 카드/함선 (제국)/베나터 2급 은하 구축함.webp
+Victory I (Imperial),/resources/함선 카드/함선 (제국)/빅토리 1급 은하 구축함.webp
+Victory II (Imperial),/resources/함선 카드/함선 (제국)/빅토리 2급 은하 구축함.webp
+SSD Command Prototype (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 사령 시제함.webp
+SSD Assault Prototype (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 강습 시제함.webp
+SSD Executor I (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 1급 은하 드레드노트.webp
+SSD Executor II (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 2급 은하 드레드노트.webp
+Arquitens-class Command Cruiser (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 사령 순양함.webp
+Arquitens-class Light Cruiser (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 경 순양함.webp
+Gladiator I-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 1급 은하 구축함.webp
+Gladiator II-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 2급 은하 구축함.webp
+Gozanti-class Assault Carriers (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 강습 수송함.webp
+Gozanti-class Cruisers (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 순양함.webp
+Imperial I-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 1급 은하 구축함.webp
+Imperial II-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 2급 은하 구축함.webp
+Imperial Star Destroyer Cymoon 1 Refit (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 사이문 1 개수형.webp
+Imperial Star Destroyer Kuat Refit (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 쿠앗 개수형.webp
+Interdictor Combat Refit (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 전투형 개수함.webp
+Interdictor Suppression Refit (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 진압형 개수함.webp
+Onager-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 은하 구축함.webp
+Onager-class Testbed (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 실험함.webp
+Quasar Fire I-class Cruiser-Carrier (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 1급 순양 모함.webp
+Quasar Fire II-class Cruiser-Carrier (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 2급 순양 모함.webp
+Raider I-class Corvette (Imperial),/resources/함선 카드/함선 (제국)/레이더 1급 초계함.webp
+Raider II-class Corvette (Imperial),/resources/함선 카드/함선 (제국)/레이더 2급 초계함.webp
+Victory I-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/베나터 2급 은하 구축함.webp
+Victory II-class Star Destroyer (Imperial),/resources/함선 카드/함선 (제국)/빅토리 1급 은하 구축함.webp
+Venator II-class Star Destroyer {IMP} (Imperial),/resources/함선 카드/함선 (제국)/빅토리 2급 은하 구축함.webp
+Star Dreadnought Command Prototype (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 사령 시제함.webp
+Star Dreadnought Assault Prototype (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 강습 시제함.webp
+Executor I-class Star Dreadnought (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 1급 은하 드레드노트.webp
+Executor II-class Star Dreadnought (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 2급 은하 드레드노트.webp
+아퀴텐즈 급 사령 순양함 (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 사령 순양함.webp
+아퀴텐즈 급 경 순양함 (Imperial),/resources/함선 카드/함선 (제국)/아퀴텐즈 급 경 순양함.webp
+글래디에이터 1급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 1급 은하 구축함.webp
+글래디에이터 2급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/글래디에이터 2급 은하 구축함.webp
+고잔티 급 강습 수송함 (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 강습 수송함.webp
+고잔티 급 순양함 (Imperial),/resources/함선 카드/함선 (제국)/고잔티 급 순양함.webp
+임페리얼 1급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 1급 은하 구축함.webp
+임페리얼 2급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 2급 은하 구축함.webp
+임페리얼 은하 구축함 사이문 1 개수형 (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 사이문 1 개수형.webp
+임페리얼 은하 구축함 쿠앗 개수형 (Imperial),/resources/함선 카드/함선 (제국)/임페리얼 은하 구축함 쿠앗 개수형.webp
+인터딕터 전투형 개수함 (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 전투형 개수함.webp
+인터딕터 진압형 개수함 (Imperial),/resources/함선 카드/함선 (제국)/인터딕터 진압형 개수함.webp
+오나거 급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 은하 구축함.webp
+오나거 급 실험함 (Imperial),/resources/함선 카드/함선 (제국)/오나거 급 실험함.webp
+퀘이사 파이어 1급 순양 모함 (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 1급 순양 모함.webp
+퀘이사 파이어 2급 순양 모함 (Imperial),/resources/함선 카드/함선 (제국)/퀘이사 파이어 2급 순양 모함.webp
+레이더 1급 초계함 (Imperial),/resources/함선 카드/함선 (제국)/레이더 1급 초계함.webp
+레이더 2급 초계함 (Imperial),/resources/함선 카드/함선 (제국)/레이더 2급 초계함.webp
+베나터 2급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/베나터 2급 은하 구축함.webp
+빅토리 1급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/빅토리 1급 은하 구축함.webp
+빅토리 2급 은하 구축함 (Imperial),/resources/함선 카드/함선 (제국)/빅토리 2급 은하 구축함.webp
+은하 드레드노트 사령 시제함 (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 사령 시제함.webp
+은하 드레드노트 강습 시제함 (Imperial),/resources/함선 카드/함선 (제국)/은하 드레드노트 강습 시제함.webp
+이제큐터 1급 은하 드레드노트 (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 1급 은하 드레드노트.webp
+이제큐터 2급 은하 드레드노트 (Imperial),/resources/함선 카드/함선 (제국)/이제큐터 2급 은하 드레드노트.webp
+,
+Ship (Rebel),함선 (반군)
+Assault Frigate Mk2 A (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 A.webp
+Assault Frigate Mk2 B (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 B.webp
+CR90 Corvette A (Rebel),/resources/함선 카드/함선 (반군)/CR90 초계함 A.webp
+CR90 Corvette B (Rebel),/resources/함선 카드/함선 (반군)/CR90 초계함 B.webp
+GR-75 Combat Retrofits (Rebel),/resources/함선 카드/함선 (반군)/GR-75 전투 개량함.webp
+GR-75 Medium Transports (Rebel),/resources/함선 카드/함선 (반군)/GR-75 중형 수송선.webp
+Hammerhead Scout Corvette (Rebel),/resources/함선 카드/함선 (반군)/해머헤드 정찰 초계함.webp
+Hammerhead Torpedo Corvette (Rebel),/resources/함선 카드/함선 (반군)/해머헤드 어뢰 초계함.webp
+MC30c Scout Frigate (Rebel),/resources/함선 카드/함선 (반군)/MC30c 정찰 프리깃.webp
+MC30c Torpedo Frigate (Rebel),/resources/함선 카드/함선 (반군)/MC30c 어뢰 프리깃.webp
+MC75 Armored Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC75 장갑 순양함.webp
+MC75 Ordnance Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC75 폭격 순양함.webp
+MC80 Assault Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC80 강습 순양함.webp
+MC80 Command Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC80 사령 순양함.webp
+MC80 Battle Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC80 전투 순양함.webp
+MC80 Star Cruiser (Rebel),/resources/함선 카드/함선 (반군)/MC80 은하 순양함.webp
+Nebulon-B Escort Frigate (Rebel),/resources/함선 카드/함선 (반군)/네뷸론-B 호위 프리깃.webp
+Nebulon-B Support Refit (Rebel),/resources/함선 카드/함선 (반군)/네뷸론-B 지원형 개수함.webp
+Pelta Assault Ship (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 강습함.webp
+Pelta Command Ship (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 사령함.webp
+Starhawk Battleship Mark I (Rebel),/resources/함선 카드/함선 (반군)/마크 1 스타호크 급 전함.webp
+Starhawk Battleship Mark II (Rebel),/resources/함선 카드/함선 (반군)/마크 2 스타호크 급 전함.webp
+Providence Carrier (Rebel),/resources/함선 카드/함선 (반군)/프로비던스 급 모함.webp
+Assault Frigate Mark II A (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 A.webp
+Assault Frigate Mark II B (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 B.webp
+Modified Pelta-class Assault Ship (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 강습함.webp
+Modified Pelta-class Command Ship (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 사령함.webp
+Starhawk-class Battleship Mark I (Rebel),/resources/함선 카드/함선 (반군)/마크 1 스타호크 급 전함.webp
+Starhawk-class Battleship Mark II (Rebel),/resources/함선 카드/함선 (반군)/마크 2 스타호크 급 전함.webp
+Providence-class Carrier (Rebel),/resources/함선 카드/함선 (반군)/프로비던스 급 모함.webp
+마크 2 어썰트 프리깃 A (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 A.webp
+마크 2 어썰트 프리깃 B (Rebel),/resources/함선 카드/함선 (반군)/마크 2 어썰트 프리깃 B.webp
+CR90 초계함 A (Rebel),/resources/함선 카드/함선 (반군)/CR90 초계함 A.webp
+CR90 초계함 B (Rebel),/resources/함선 카드/함선 (반군)/CR90 초계함 B.webp
+GR-75 전투 개량함 (Rebel),/resources/함선 카드/함선 (반군)/GR-75 전투 개량함.webp
+GR-75 중형 수송선 (Rebel),/resources/함선 카드/함선 (반군)/GR-75 중형 수송선.webp
+해머헤드 정찰 초계함 (Rebel),/resources/함선 카드/함선 (반군)/해머헤드 정찰 초계함.webp
+해머헤드 어뢰 초계함 (Rebel),/resources/함선 카드/함선 (반군)/해머헤드 어뢰 초계함.webp
+MC30c 정찰 프리깃 (Rebel),/resources/함선 카드/함선 (반군)/MC30c 정찰 프리깃.webp
+MC30c 어뢰 프리깃 (Rebel),/resources/함선 카드/함선 (반군)/MC30c 어뢰 프리깃.webp
+MC75 장갑 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC75 장갑 순양함.webp
+MC75 폭격 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC75 폭격 순양함.webp
+MC80 강습 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC80 강습 순양함.webp
+MC80 사령 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC80 사령 순양함.webp
+MC80 전투 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC80 전투 순양함.webp
+MC80 은하 순양함 (Rebel),/resources/함선 카드/함선 (반군)/MC80 은하 순양함.webp
+네뷸론-B 호위 프리깃 (Rebel),/resources/함선 카드/함선 (반군)/네뷸론-B 호위 프리깃.webp
+네뷸론-B 지원형 개수함 (Rebel),/resources/함선 카드/함선 (반군)/네뷸론-B 지원형 개수함.webp
+개조형 펠타 급 강습함 (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 강습함.webp
+개조형 펠타 급 사령함 (Rebel),/resources/함선 카드/함선 (반군)/개조형 펠타 급 사령함.webp
+마크 1 스타호크 급 전함 (Rebel),/resources/함선 카드/함선 (반군)/마크 1 스타호크 급 전함.webp
+마크 2 스타호크 급 전함 (Rebel),/resources/함선 카드/함선 (반군)/마크 2 스타호크 급 전함.webp
+프로비던스 급 모함 (Rebel),/resources/함선 카드/함선 (반군)/프로비던스 급 모함.webp
+,
+Ship (Republic),함선 (공화국)
+Acclamator I (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 1급 강습함.webp
+Acclamator II (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 2급 강습함.webp
+Consular Armed Cruiser (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 무장 순양함.webp
+Consular Charger C70 (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 급 챠저 c70.webp
+Pelta Medical Frigate (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 의료 프리깃.webp
+Pelta Transport Frigate (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 수송 프리깃.webp
+Venator I (Republic),/resources/함선 카드/함선 (공화국)/베나터 1급 은하 구축함.webp
+Venator II (Republic),/resources/함선 카드/함선 (공화국)/베나터 2급 은하 구축함.webp
+Victory I (Republic),/resources/함선 카드/함선 (공화국)/빅토리 1급 은하 구축함.webp
+Acclamator I-class Assault Ship (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 1급 강습함.webp
+Acclamator II-class Assault Ship (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 2급 강습함.webp
+Consular-class Armed Cruiser (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 무장 순양함.webp
+Consular-class Charger c70 (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 급 챠저 c70.webp
+Pelta-class Medical Frigate (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 의료 프리깃.webp
+Pelta-class Transport Frigate (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 수송 프리깃.webp
+Venator I-class Star Destroyer (Republic),/resources/함선 카드/함선 (공화국)/베나터 1급 은하 구축함.webp
+Venator II-class Star Destroyer (Republic),/resources/함선 카드/함선 (공화국)/베나터 2급 은하 구축함.webp
+Victory I-class Star Destroyer {GAR} (Republic),/resources/함선 카드/함선 (공화국)/빅토리 1급 은하 구축함.webp
+어클레메이터 1급 강습함 (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 1급 강습함.webp
+어클레메이터 2급 강습함 (Republic),/resources/함선 카드/함선 (공화국)/어클레메이터 2급 강습함.webp
+컨슐러 무장 순양함 (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 무장 순양함.webp
+컨슐러 급 챠저 c70 (Republic),/resources/함선 카드/함선 (공화국)/컨슐러 급 챠저 c70.webp
+펠타 급 의료 프리깃 (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 의료 프리깃.webp
+펠타 급 수송 프리깃 (Republic),/resources/함선 카드/함선 (공화국)/펠타 급 수송 프리깃.webp
+베나터 1급 은하 구축함 (Republic),/resources/함선 카드/함선 (공화국)/베나터 1급 은하 구축함.webp
+베나터 2급 은하 구축함 (Republic),/resources/함선 카드/함선 (공화국)/베나터 2급 은하 구축함.webp
+빅토리 1급 은하 구축함 (Republic),/resources/함선 카드/함선 (공화국)/빅토리 1급 은하 구축함.webp
+,
+Ship (Separatist),함선 (분리주의)
+Gozanti Cruisers (Separatist),/resources/함선 카드/함선 (분리주의)/고잔티 급 순양함.webp
+Hardcell Battle Refit (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 전투형 개수함.webp
+Hardcell Transport (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 수송선.webp
+Munificent Comms Frigate (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 통신 프리깃.webp
+Munificent Star Frigate (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 은하 프리깃.webp
+Providence Carrier (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 모함.webp
+Providence Dreadnought (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 드레드노트.webp
+Recusant Light Destroyer (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 경 구축함.webp
+Recusant Support Destroyer (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 지원 구축함.webp
+Gozanti-class Cruisers {CIS} (Separatist),/resources/함선 카드/함선 (분리주의)/고잔티 급 순양함.webp
+Hardcell-class Battle Refit (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 전투형 개수함.webp
+Hardcell-class Transport (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 수송선.webp
+Munificent-class Comms Frigate (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 통신 프리깃.webp
+Munificent-class Star Frigate (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 은하 프리깃.webp
+Providence-class Carrier (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 모함.webp
+Providence-class Dreadnought (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 드레드노트.webp
+Recusant-class Light Destroyer (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 경 구축함.webp
+Recusant-class Support Destroyer (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 지원 구축함.webp
+고잔티 급 순양함 (Separatist),/resources/함선 카드/함선 (분리주의)/고잔티 급 순양함.webp
+하드셀 급 전투형 개수함 (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 전투형 개수함.webp
+하드셀 급 수송선 (Separatist),/resources/함선 카드/함선 (분리주의)/하드셀 급 수송선.webp
+뮤니피센트 급 통신 프리깃 (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 통신 프리깃.webp
+뮤니피센트 급 은하 프리깃 (Separatist),/resources/함선 카드/함선 (분리주의)/뮤니피센트 급 은하 프리깃.webp
+프로비던스 급 모함 (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 모함.webp
+프로비던스 급 드레드노트 (Separatist),/resources/함선 카드/함선 (분리주의)/프로비던스 급 드레드노트.webp
+리큐센트 급 경 구축함 (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 경 구축함.webp
+리큐센트 급 지원 구축함 (Separatist),/resources/함선 카드/함선 (분리주의)/리큐센트 급 지원 구축함.webp
+,
+,
+,
+Squadron (Imperial),스쿼드론 (제국)
+Aggressor Assault Fighter,/resources/스쿼드론 카드/스쿼드론 (제국)/어그레서 강습 전투기.webp
+Firespray-31,/resources/스쿼드론 카드/스쿼드론 (제국)/파이어스프레이-31.webp
+JumpMaster 5000,/resources/스쿼드론 카드/스쿼드론 (제국)/점프마스터 5000.webp
+Lambda Shuttle,/resources/스쿼드론 카드/스쿼드론 (제국)/람다 급 왕복정.webp
+Mandalorian Gauntlet Fighter,/resources/스쿼드론 카드/스쿼드론 (제국)/만달로리안 건틀렛 전투기.webp
+TIE Advanced Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 어드밴스드 스쿼드론.webp
+TIE Bomber Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 폭격기 스쿼드론.webp
+TIE Defender Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 디펜더 스쿼드론.webp
+TIE Fighter Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 전투기 스쿼드론.webp
+TIE Interceptor Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 요격기 스쿼드론.webp
+TIE Phantom Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 팬텀 스쿼드론.webp
+VT-49 Decimator,/resources/스쿼드론 카드/스쿼드론 (제국)/VT-49 데시메이터.webp
+YV-666,/resources/스쿼드론 카드/스쿼드론 (제국)/YV-666.webp
+어그레서 강습 전투기,/resources/스쿼드론 카드/스쿼드론 (제국)/어그레서 강습 전투기.webp
+파이어스프레이-31,/resources/스쿼드론 카드/스쿼드론 (제국)/파이어스프레이-31.webp
+점프마스터 5000,/resources/스쿼드론 카드/스쿼드론 (제국)/점프마스터 5000.webp
+람다 급 왕복정,/resources/스쿼드론 카드/스쿼드론 (제국)/람다 급 왕복정.webp
+만달로리안 건틀렛 전투기,/resources/스쿼드론 카드/스쿼드론 (제국)/만달로리안 건틀렛 전투기.webp
+TIE 어드밴스드 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 어드밴스드 스쿼드론.webp
+TIE 폭격기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 폭격기 스쿼드론.webp
+TIE 디펜더 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 디펜더 스쿼드론.webp
+TIE 전투기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 전투기 스쿼드론.webp
+TIE 요격기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 요격기 스쿼드론.webp
+TIE 팬텀 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (제국)/TIE 팬텀 스쿼드론.webp
+VT-49 데시메이터,/resources/스쿼드론 카드/스쿼드론 (제국)/VT-49 데시메이터.webp
+YV-666,/resources/스쿼드론 카드/스쿼드론 (제국)/YV-666.webp
+,
+Black Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/흑색 비행대.webp
+Boba Fett,/resources/스쿼드론 카드/스쿼드론 (제국)/보바 펫.webp
+Bossk,/resources/스쿼드론 카드/스쿼드론 (제국)/보스크.webp
+Captain Jonus,/resources/스쿼드론 카드/스쿼드론 (제국)/조너스 대위.webp
+Ciena Ree,/resources/스쿼드론 카드/스쿼드론 (제국)/사이에나 리.webp
+Colonel Jendon,/resources/스쿼드론 카드/스쿼드론 (제국)/젠돈 대령.webp
+Darth Vader (TIE Advanced),/resources/스쿼드론 카드/스쿼드론 (제국)/다스 베이더 (TIE 어드밴스드 스쿼드론).webp
+Darth Vader (TIE Defender),/resources/스쿼드론 카드/스쿼드론 (제국)/다스 베이더 (TIE 디펜더 스쿼드론).webp
+Dengar,/resources/스쿼드론 카드/스쿼드론 (제국)/덴가.webp
+Gamma Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/감마 비행대.webp
+Gar Saxon,/resources/스쿼드론 카드/스쿼드론 (제국)/갈 색슨.webp
+Hondo Ohnaka,/resources/스쿼드론 카드/스쿼드론 (제국)/혼도 오나카.webp
+Howlrunner,/resources/스쿼드론 카드/스쿼드론 (제국)/″하울러너″.webp
+IG-88,/resources/스쿼드론 카드/스쿼드론 (제국)/IG-88.webp
+IG-88B,/resources/스쿼드론 카드/스쿼드론 (제국)/IG-88B.webp
+Maarek Stele,/resources/스쿼드론 카드/스쿼드론 (제국)/마렉 스틸.webp
+Major Rhymer,/resources/스쿼드론 카드/스쿼드론 (제국)/라이머 소령.webp
+Mauler Mithel,/resources/스쿼드론 카드/스쿼드론 (제국)/″모울러″ 미텔.webp
+Moralo Eval,/resources/스쿼드론 카드/스쿼드론 (제국)/모랄로 이발.webp
+Morna Kee,/resources/스쿼드론 카드/스쿼드론 (제국)/모나 키.webp
+Saber Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/세이버 비행대.webp
+Soontir Fel,/resources/스쿼드론 카드/스쿼드론 (제국)/순티르 펠.webp
+Tel Trevura,/resources/스쿼드론 카드/스쿼드론 (제국)/텔 트레부라.webp
+Tempest Squadron,/resources/스쿼드론 카드/스쿼드론 (제국)/템페스트 비행대.webp
+Valen Rudor,/resources/스쿼드론 카드/스쿼드론 (제국)/발렌 루도.webp
+Vult Skerris,/resources/스쿼드론 카드/스쿼드론 (제국)/벌트 스케리스.webp
+Whisper,/resources/스쿼드론 카드/스쿼드론 (제국)/″위스퍼″.webp
+Zertik Strom,/resources/스쿼드론 카드/스쿼드론 (제국)/제르틱 스트롬.webp
+흑색 비행대,/resources/스쿼드론 카드/스쿼드론 (제국)/흑색 비행대.webp
+보바 펫,/resources/스쿼드론 카드/스쿼드론 (제국)/보바 펫.webp
+보스크,/resources/스쿼드론 카드/스쿼드론 (제국)/보스크.webp
+조너스 대위,/resources/스쿼드론 카드/스쿼드론 (제국)/조너스 대위.webp
+사이에나 리,/resources/스쿼드론 카드/스쿼드론 (제국)/사이에나 리.webp
+젠돈 대령,/resources/스쿼드론 카드/스쿼드론 (제국)/젠돈 대령.webp
+다스 베이더 (TIE 어드밴스드),/resources/스쿼드론 카드/스쿼드론 (제국)/다스 베이더 (TIE 어드밴스드 스쿼드론).webp
+다스 베이더 (TIE 디펜더),/resources/스쿼드론 카드/스쿼드론 (제국)/다스 베이더 (TIE 디펜더 스쿼드론).webp
+덴가,/resources/스쿼드론 카드/스쿼드론 (제국)/덴가.webp
+감마 비행대,/resources/스쿼드론 카드/스쿼드론 (제국)/감마 비행대.webp
+갈 색슨,/resources/스쿼드론 카드/스쿼드론 (제국)/갈 색슨.webp
+혼도 오나카,/resources/스쿼드론 카드/스쿼드론 (제국)/혼도 오나카.webp
+″하울러너″,/resources/스쿼드론 카드/스쿼드론 (제국)/″하울러너″.webp
+IG-88,/resources/스쿼드론 카드/스쿼드론 (제국)/IG-88.webp
+IG-88B,/resources/스쿼드론 카드/스쿼드론 (제국)/IG-88B.webp
+마렉 스틸,/resources/스쿼드론 카드/스쿼드론 (제국)/마렉 스틸.webp
+라이머 소령,/resources/스쿼드론 카드/스쿼드론 (제국)/라이머 소령.webp
+″모울러″ 미텔,/resources/스쿼드론 카드/스쿼드론 (제국)/″모울러″ 미텔.webp
+모랄로 이발,/resources/스쿼드론 카드/스쿼드론 (제국)/모랄로 이발.webp
+모나 키,/resources/스쿼드론 카드/스쿼드론 (제국)/모나 키.webp
+세이버 비행대,/resources/스쿼드론 카드/스쿼드론 (제국)/세이버 비행대.webp
+순티르 펠,/resources/스쿼드론 카드/스쿼드론 (제국)/순티르 펠.webp
+텔 트레부라,/resources/스쿼드론 카드/스쿼드론 (제국)/텔 트레부라.webp
+템페스트 비행대,/resources/스쿼드론 카드/스쿼드론 (제국)/템페스트 비행대.webp
+발렌 루도,/resources/스쿼드론 카드/스쿼드론 (제국)/발렌 루도.webp
+벌트 스케리스,/resources/스쿼드론 카드/스쿼드론 (제국)/벌트 스케리스.webp
+″위스퍼″,/resources/스쿼드론 카드/스쿼드론 (제국)/″위스퍼″.webp
+제르틱 스트롬,/resources/스쿼드론 카드/스쿼드론 (제국)/제르틱 스트롬.webp
+,
+Squadron (Rebel),스쿼드론 (반군)
+A-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/A윙 스쿼드론.webp
+B-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/B윙 스쿼드론.webp
+E-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/E윙 스쿼드론.webp
+HWK-290,/resources/스쿼드론 카드/스쿼드론 (반군)/HWK-290.webp
+Lancer Pursuit Craft,/resources/스쿼드론 카드/스쿼드론 (반군)/랜서 급 추격정.webp
+Scurrg H-6 Bomber,/resources/스쿼드론 카드/스쿼드론 (반군)/스컬그 H-6 폭격기.webp
+VCX-100 Freighter,/resources/스쿼드론 카드/스쿼드론 (반군)/VCX-100 화물선.webp
+X-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/X윙 스쿼드론.webp
+Y-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/Y윙 스쿼드론.webp
+YT-1300,/resources/스쿼드론 카드/스쿼드론 (반군)/YT-1300.webp
+YT-2400,/resources/스쿼드론 카드/스쿼드론 (반군)/YT-2400.webp
+Z-95 Headhunter Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/Z-95 헤드헌터 스쿼드론.webp
+A윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/A윙 스쿼드론.webp
+B윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/B윙 스쿼드론.webp
+E윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/E윙 스쿼드론.webp
+HWK-290,/resources/스쿼드론 카드/스쿼드론 (반군)/HWK-290.webp
+랜서 급 추격정,/resources/스쿼드론 카드/스쿼드론 (반군)/랜서 급 추격정.webp
+스컬그 H-6 폭격기,/resources/스쿼드론 카드/스쿼드론 (반군)/스컬그 H-6 폭격기.webp
+VCX-100 화물선,/resources/스쿼드론 카드/스쿼드론 (반군)/VCX-100 화물선.webp
+X윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/X윙 스쿼드론.webp
+Y윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/Y윙 스쿼드론.webp
+YT-1300,/resources/스쿼드론 카드/스쿼드론 (반군)/YT-1300.webp
+YT-2400,/resources/스쿼드론 카드/스쿼드론 (반군)/YT-2400.webp
+Z-95 헤드헌터 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (반군)/Z-95 헤드헌터 스쿼드론.webp
+,
+Biggs Darklighter,/resources/스쿼드론 카드/스쿼드론 (반군)/빅스 다크라이터.webp
+Corran Horn,/resources/스쿼드론 카드/스쿼드론 (반군)/코란 혼.webp
+Dagger Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/대거 비행대.webp
+Dash Rendar,/resources/스쿼드론 카드/스쿼드론 (반군)/대쉬 렌더.webp
+Dutch Vander,/resources/스쿼드론 카드/스쿼드론 (반군)/″더치″ 반더.webp
+Fenn Rau,/resources/스쿼드론 카드/스쿼드론 (반군)/펜 라우.webp
+Gold Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/황금 비행대.webp
+Green Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/녹색 비행대.webp
+Han Solo,/resources/스쿼드론 카드/스쿼드론 (반군)/한 솔로.webp
+Hera Syndulla (Ghost),/resources/스쿼드론 카드/스쿼드론 (반군)/헤라 신둘라 (고스트).webp
+Hera Syndulla (X-wing),/resources/스쿼드론 카드/스쿼드론 (반군)/헤라 신둘라 (X윙 스쿼드론).webp
+Jan Ors,/resources/스쿼드론 카드/스쿼드론 (반군)/잔 오스.webp
+Kanan Jarrus,/resources/스쿼드론 카드/스쿼드론 (반군)/케이넌 제러스.webp
+Ketsu Onyo,/resources/스쿼드론 카드/스쿼드론 (반군)/켓수 온요.webp
+Keyan Farlander,/resources/스쿼드론 카드/스쿼드론 (반군)/키얀 팔랜더.webp
+Lando Calrissian,/resources/스쿼드론 카드/스쿼드론 (반군)/란도 칼리시안.webp
+Lieutenant Blount,/resources/스쿼드론 카드/스쿼드론 (반군)/블라운트 중위.webp
+Luke Skywalker,/resources/스쿼드론 카드/스쿼드론 (반군)/루크 스카이워커.webp
+Malee Hurra,/resources/스쿼드론 카드/스쿼드론 (반군)/말레 후라.webp
+Mart Mattin,/resources/스쿼드론 카드/스쿼드론 (반군)/마트 마틴.webp
+Norra Wexley,/resources/스쿼드론 카드/스쿼드론 (반군)/노라 웩슬리.webp
+Nym,/resources/스쿼드론 카드/스쿼드론 (반군)/님.webp
+Rogue Squadron,/resources/스쿼드론 카드/스쿼드론 (반군)/로그 비행대.webp
+Shara Bey,/resources/스쿼드론 카드/스쿼드론 (반군)/샤라 베이.webp
+Ten Numb,/resources/스쿼드론 카드/스쿼드론 (반군)/텐 넘브.webp
+Tycho Celchu,/resources/스쿼드론 카드/스쿼드론 (반군)/타이쵸 첼추.webp
+Wedge Antilles,/resources/스쿼드론 카드/스쿼드론 (반군)/웨지 안틸레스.webp
+빅스 다크라이터,/resources/스쿼드론 카드/스쿼드론 (반군)/빅스 다크라이터.webp
+코란 혼,/resources/스쿼드론 카드/스쿼드론 (반군)/코란 혼.webp
+대거 비행대,/resources/스쿼드론 카드/스쿼드론 (반군)/대거 비행대.webp
+대쉬 렌더,/resources/스쿼드론 카드/스쿼드론 (반군)/대쉬 렌더.webp
+″더치″ 반더,/resources/스쿼드론 카드/스쿼드론 (반군)/″더치″ 반더.webp
+펜 라우,/resources/스쿼드론 카드/스쿼드론 (반군)/펜 라우.webp
+황금 비행대,/resources/스쿼드론 카드/스쿼드론 (반군)/황금 비행대.webp
+녹색 비행대,/resources/스쿼드론 카드/스쿼드론 (반군)/녹색 비행대.webp
+한 솔로,/resources/스쿼드론 카드/스쿼드론 (반군)/한 솔로.webp
+헤라 신둘라 (고스트),/resources/스쿼드론 카드/스쿼드론 (반군)/헤라 신둘라 (고스트).webp
+헤라 신둘라 (X윙),/resources/스쿼드론 카드/스쿼드론 (반군)/헤라 신둘라 (X윙 스쿼드론).webp
+잔 오스,/resources/스쿼드론 카드/스쿼드론 (반군)/잔 오스.webp
+케이넌 제러스,/resources/스쿼드론 카드/스쿼드론 (반군)/케이넌 제러스.webp
+켓수 온요,/resources/스쿼드론 카드/스쿼드론 (반군)/켓수 온요.webp
+키얀 팔랜더,/resources/스쿼드론 카드/스쿼드론 (반군)/키얀 팔랜더.webp
+란도 칼리시안,/resources/스쿼드론 카드/스쿼드론 (반군)/란도 칼리시안.webp
+블라운트 중위,/resources/스쿼드론 카드/스쿼드론 (반군)/블라운트 중위.webp
+루크 스카이워커,/resources/스쿼드론 카드/스쿼드론 (반군)/루크 스카이워커.webp
+말레 후라,/resources/스쿼드론 카드/스쿼드론 (반군)/말레 후라.webp
+마트 마틴,/resources/스쿼드론 카드/스쿼드론 (반군)/마트 마틴.webp
+노라 웩슬리,/resources/스쿼드론 카드/스쿼드론 (반군)/노라 웩슬리.webp
+님,/resources/스쿼드론 카드/스쿼드론 (반군)/님.webp
+로그 비행대,/resources/스쿼드론 카드/스쿼드론 (반군)/로그 비행대.webp
+샤라 베이,/resources/스쿼드론 카드/스쿼드론 (반군)/샤라 베이.webp
+텐 넘브,/resources/스쿼드론 카드/스쿼드론 (반군)/텐 넘브.webp
+타이쵸 첼추,/resources/스쿼드론 카드/스쿼드론 (반군)/타이쵸 첼추.webp
+웨지 안틸레스,/resources/스쿼드론 카드/스쿼드론 (반군)/웨지 안틸레스.webp
+,
+Squadron (Republic),스쿼드론 (공화국)
+ARC-170 Starfighter Squadron,/resources/스쿼드론 카드/스쿼드론 (공화국)/ARC-170 은하전투기 스쿼드론.webp
+BTL-B Y-wing Squadron,/resources/스쿼드론 카드/스쿼드론 (공화국)/BTL-B Y윙 스쿼드론.webp
+Delta-7 Aethersprite Squadron,/resources/스쿼드론 카드/스쿼드론 (공화국)/델타-7 이텔스프라이트 스쿼드론.webp
+V-19 Torrent Squadron,/resources/스쿼드론 카드/스쿼드론 (공화국)/V-19 토렌트 스쿼드론.webp
+ARC-170 은하전투기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (공화국)/ARC-170 은하전투기 스쿼드론.webp
+BTL-B Y윙 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (공화국)/BTL-B Y윙 스쿼드론.webp
+델타-7 이텔스프라이트 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (공화국)/델타-7 이텔스프라이트 스쿼드론.webp
+V-19 토렌트 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (공화국)/V-19 토렌트 스쿼드론.webp
+,
+Ahsoka Tano,/resources/스쿼드론 카드/스쿼드론 (공화국)/아소카 타노.webp
+Anakin Skywalker (BTL-B),/resources/스쿼드론 카드/스쿼드론 (공화국)/아나킨 스카이워커 (BTL-B Y윙 스쿼드론).webp
+Anakin Skywalker (Delta-7),/resources/스쿼드론 카드/스쿼드론 (공화국)/아나킨 스카이워커 (델타-7 이텔스프라이트 스쿼드론).webp
+Axe,/resources/스쿼드론 카드/스쿼드론 (공화국)/″액스″.webp
+Kickback,/resources/스쿼드론 카드/스쿼드론 (공화국)/″킥백″.webp
+Kit Fisto,/resources/스쿼드론 카드/스쿼드론 (공화국)/킷 피스토.webp
+Luminara Unduli,/resources/스쿼드론 카드/스쿼드론 (공화국)/루미나라 언둘리.webp
+Matchstick,/resources/스쿼드론 카드/스쿼드론 (공화국)/″매치스틱″.webp
+Odd Ball,/resources/스쿼드론 카드/스쿼드론 (공화국)/″오드 볼″.webp
+Plo Koon,/resources/스쿼드론 카드/스쿼드론 (공화국)/플로 쿤.webp
+아소카 타노,/resources/스쿼드론 카드/스쿼드론 (공화국)/아소카 타노.webp
+아나킨 스카이워커 (BTL-B),/resources/스쿼드론 카드/스쿼드론 (공화국)/아나킨 스카이워커 (BTL-B Y윙 스쿼드론).webp
+아나킨 스카이워커 (델타-7),/resources/스쿼드론 카드/스쿼드론 (공화국)/아나킨 스카이워커 (델타-7 이텔스프라이트 스쿼드론).webp
+″액스″,/resources/스쿼드론 카드/스쿼드론 (공화국)/″액스″.webp
+″킥백″,/resources/스쿼드론 카드/스쿼드론 (공화국)/″킥백″.webp
+킷 피스토,/resources/스쿼드론 카드/스쿼드론 (공화국)/킷 피스토.webp
+루미나라 언둘리,/resources/스쿼드론 카드/스쿼드론 (공화국)/루미나라 언둘리.webp
+″매치스틱″,/resources/스쿼드론 카드/스쿼드론 (공화국)/″매치스틱″.webp
+″오드 볼″,/resources/스쿼드론 카드/스쿼드론 (공화국)/″오드 볼″.webp
+플로 쿤,/resources/스쿼드론 카드/스쿼드론 (공화국)/플로 쿤.webp
+,
+Squadron (Separatist),스쿼드론 (분리주의)
+Belbullab-22 Starfighter Squadron,/resources/스쿼드론 카드/스쿼드론 (분리주의)/벨불라브-22 은하전투기 스쿼드론.webp
+Droid Tri-fighter Squadron,/resources/스쿼드론 카드/스쿼드론 (분리주의)/드로이드 트라이 전투기 스쿼드론.webp
+Hyena Droid Bomber Squadron,/resources/스쿼드론 카드/스쿼드론 (분리주의)/하이에나 급 드로이드 폭격기 스쿼드론.webp
+Vulture Droid Fighter Squadron,/resources/스쿼드론 카드/스쿼드론 (분리주의)/벌처 급 드로이드 전투기 스쿼드론.webp
+벨불라브-22 은하전투기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (분리주의)/벨불라브-22 은하전투기 스쿼드론.webp
+드로이드 트라이 전투기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (분리주의)/드로이드 트라이 전투기 스쿼드론.webp
+하이에나 급 드로이드 폭격기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (분리주의)/하이에나 급 드로이드 폭격기 스쿼드론.webp
+벌처 급 드로이드 전투기 스쿼드론,/resources/스쿼드론 카드/스쿼드론 (분리주의)/벌처 급 드로이드 전투기 스쿼드론.webp
+,
+Baktoid Prototype,/resources/스쿼드론 카드/스쿼드론 (분리주의)/박토이드 시제기.webp
+DBS-404,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DBS-404.webp
+DFS-311,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DFS-311.webp
+DIS-T81,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DIS-T81.webp
+General Grievous,/resources/스쿼드론 카드/스쿼드론 (분리주의)/그리버스 장군.webp
+Haor Chall Prototypes,/resources/스쿼드론 카드/스쿼드론 (분리주의)/하오 찰 시제기.webp
+Phlac-Arphocc Prototypes,/resources/스쿼드론 카드/스쿼드론 (분리주의)/플락-아포크 시제기.webp
+Wat Tambor,/resources/스쿼드론 카드/스쿼드론 (분리주의)/왓 탐보.webp
+Jango Fett,/resources/스쿼드론 카드/스쿼드론 (분리주의)/장고 펫.webp
+박토이드 시제기,/resources/스쿼드론 카드/스쿼드론 (분리주의)/박토이드 시제기.webp
+DBS-404,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DBS-404.webp
+DFS-311,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DFS-311.webp
+DIS-T81,/resources/스쿼드론 카드/스쿼드론 (분리주의)/DIS-T81.webp
+그리버스 장군,/resources/스쿼드론 카드/스쿼드론 (분리주의)/그리버스 장군.webp
+하오 찰 시제기,/resources/스쿼드론 카드/스쿼드론 (분리주의)/하오 찰 시제기.webp
+플락-아포크 시제기,/resources/스쿼드론 카드/스쿼드론 (분리주의)/플락-아포크 시제기.webp
+왓 탐보,/resources/스쿼드론 카드/스쿼드론 (분리주의)/왓 탐보.webp
+장고 펫,/resources/스쿼드론 카드/스쿼드론 (분리주의)/장고 펫.webp
+,
+Legacy,레거시
+G9 Rigger-class Freighter [Legacy],/resources/Legacy/Legacy Wave 0/G9 리거 급 화물선.webp
+Anakin Skywalker (Twilight) [Legacy],/resources/Legacy/Legacy Wave 0/아나킨 스카이워커 (트와일라잇).webp
+R2-D2 [Legacy],/resources/Legacy/Legacy Wave 0/R2-D2.webp
+LAAT/i Gunship [Legacy],/resources/Legacy/Legacy Wave 0/LAAT_i 건쉽.webp
+Five-Seven [Legacy],/resources/Legacy/Legacy Wave 0/″파이브 세븐″.webp
+Star Courier [Legacy],/resources/Legacy/Legacy Wave 0/스타 커리어.webp
+Darth Maul [Legacy],/resources/Legacy/Legacy Wave 0/다스 몰.webp
+Count Dooku [Legacy],/resources/Legacy/Legacy Wave 0/두쿠 백작.webp
+HMP Droid Gunship [Legacy],/resources/Legacy/Legacy Wave 0/HMP 드로이드 건쉽.webp
+DGS-047 [Legacy],/resources/Legacy/Legacy Wave 0/DGS-047.webp
+G9 리거 급 화물선 [Legacy],/resources/Legacy/Legacy Wave 0/G9 리거 급 화물선.webp
+아나킨 스카이워커 (트와일라잇) [Legacy],/resources/Legacy/Legacy Wave 0/아나킨 스카이워커 (트와일라잇).webp
+R2-D2 [Legacy],/resources/Legacy/Legacy Wave 0/R2-D2.webp
+LAAT/i 건쉽 [Legacy],/resources/Legacy/Legacy Wave 0/LAAT_i 건쉽.webp
+″파이브 세븐″ [Legacy],/resources/Legacy/Legacy Wave 0/″파이브 세븐″.webp
+스타 커리어 [Legacy],/resources/Legacy/Legacy Wave 0/스타 커리어.webp
+다스 몰 [Legacy],/resources/Legacy/Legacy Wave 0/다스 몰.webp
+두쿠 백작 [Legacy],/resources/Legacy/Legacy Wave 0/두쿠 백작.webp
+HMP 드로이드 건쉽 [Legacy],/resources/Legacy/Legacy Wave 0/HMP 드로이드 건쉽.webp
+DGS-047 [Legacy],/resources/Legacy/Legacy Wave 0/DGS-047.webp
