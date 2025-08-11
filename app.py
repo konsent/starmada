@@ -8,6 +8,8 @@ import base64
 from datetime import datetime
 from shutil import rmtree
 from math import ceil
+from flask import send_file
+from io import BytesIO
 
 app = Flask(__name__)
 
@@ -478,16 +480,42 @@ def generate():
 
         output_images = create_fleet_images(Name, Faction, Fleetlist, ImageList)
 
+        # PDF 생성 객체
+        pdf_io = BytesIO()
+
+        # 첫 이미지는 RGB 모드로 변환 (PDF 저장 조건)
+        pdf_images = [img.convert('RGB') for img in output_images]
+
+        # 첫 이미지 기준으로 PDF 저장 (나머지는 append_images 인자로)
+        pdf_images[0].save(pdf_io, format='PDF', save_all=True, append_images=pdf_images[1:])
+        pdf_io.seek(0)
+
+        # pdf_io를 세션이나 전역변수, 임시 파일로 저장해 둬야 함
+        # 여기서는 간단히 전역변수 예시:
+        app.config['fleet_pdf'] = pdf_io.read()  # bytes 저장
+
         images_html = ''
         for idx, img in enumerate(output_images):
+            # 버튼 문구 설정
+            if idx == 0:
+                button_text = "목표 카드 이미지 저장"
+            elif idx == len(output_images) - 1:
+                button_text = "스쿼드론 카드 이미지 저장"
+            else:
+                button_text = "함선 이미지 저장"
+
+            # 이미지 -> base64 인코딩
             img_io = BytesIO()
             img.save(img_io, 'WEBP')
             img_io.seek(0)
             img_b64 = base64.b64encode(img_io.read()).decode('ascii')
+
+            # HTML 생성
             images_html += f'''
             <div class="image-wrapper">
-              <img src="data:image/webp;base64,{img_b64}" alt="Fleet Image {idx+1}" class="clickable-image" />
-              <a download="fleet_image_{idx+1}.webp" href="data:image/webp;base64,{img_b64}" class="btn-download">이미지 저장</a>
+            
+            <img src="data:image/webp;base64,{img_b64}" alt="Fleet Image {idx+1}" class="clickable-image" />
+            <a download="fleet_image_{idx+1}.webp" href="data:image/webp;base64,{img_b64}" class="btn-download">{button_text}</a>
             </div>
             '''
 
@@ -601,6 +629,15 @@ def generate():
         </head>
         <body>
           <h1>{Name} ({Faction})</h1>
+          
+          <form method="get" action="/download_pdf">
+            <button type="submit" class="btn-download">전체 이미지 PDF 다운로드</button>
+          </form>
+          <br>
+
+          
+
+
           {images_html}
           <a href="/" class="back-link">&larr; 새로 입력하기</a>
 
@@ -650,7 +687,15 @@ def generate():
     except Exception as e:
         return f"<h2>오류 발생:</h2><pre>{e}</pre>"
 
-
+@app.route('/download_pdf')
+def download_pdf():
+    pdf_bytes = app.config.get('fleet_pdf')
+    if not pdf_bytes:
+        return "PDF가 존재하지 않습니다.", 404
+    return send_file(BytesIO(pdf_bytes),
+                     mimetype='application/pdf',
+                     download_name='fleet_images.pdf',
+                     as_attachment=True)
 
 # --- 7. 메인 실행 ---
 if __name__ == '__main__':
