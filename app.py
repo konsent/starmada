@@ -452,6 +452,10 @@ def index():
     </head>
     <body>
       <h1>함대 텍스트 입력</h1>
+      <a href="https://armada.ryankingston.com/" target="_blank" style="display:inline-block; margin-top:10px; padding:10px 15px; background:#4CAF50; color:white; border-radius:5px; text-decoration:none;">
+  아미 빌더로 이동
+</a>
+<br>
       <form method="post" action="/generate" autocomplete="off" spellcheck="false">
         <textarea name="fleet_text" placeholder="여기에 Army Builder로 생성한 함대 리스트 텍스트를 붙여넣으세요(그대로 붙여넣으면 됩니다)."></textarea>
         <button type="submit">이미지 생성</button>
