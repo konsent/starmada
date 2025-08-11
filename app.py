@@ -469,11 +469,14 @@ def index():
 @app.route('/generate', methods=['POST'])
 def generate():
     fleet_text = request.form.get('fleet_text', '')
+
     if not fleet_text.strip():
         return '함대 텍스트를 입력하세요', 400
 
     try:
         Name, Faction, Commander, Fleetlist = parse_fleet_text(fleet_text)
+        app.config['fleet_name'] = Name
+        app.config['fleet_faction'] = Faction
         ImageList, error = load_images(Fleetlist)
         if error:
             return f"<h2>오류 발생:</h2><p>{error}</p>"
@@ -510,12 +513,15 @@ def generate():
             img_io.seek(0)
             img_b64 = base64.b64encode(img_io.read()).decode('ascii')
 
+            name = app.config.get('fleet_name', 'Fleet')
+            faction = app.config.get('fleet_faction', 'Faction')
+
             # HTML 생성
             images_html += f'''
             <div class="image-wrapper">
             
             <img src="data:image/webp;base64,{img_b64}" alt="Fleet Image {idx+1}" class="clickable-image" />
-            <a download="fleet_image_{idx+1}.webp" href="data:image/webp;base64,{img_b64}" class="btn-download">{button_text}</a>
+            <a download="{name} ({faction})_{idx+1}.webp" href="data:image/webp;base64,{img_b64}" class="btn-download">{button_text}</a>
             </div>
             '''
 
@@ -693,9 +699,12 @@ def download_pdf():
     pdf_bytes = app.config.get('fleet_pdf')
     if not pdf_bytes:
         return "PDF가 존재하지 않습니다.", 404
+    name = app.config.get('fleet_name', 'Fleet')
+    faction = app.config.get('fleet_faction', 'Faction')
+    filename = f"{name} ({faction}).pdf"
     return send_file(BytesIO(pdf_bytes),
                      mimetype='application/pdf',
-                     download_name='fleet_images.pdf',
+                     download_name=f'{name} ({faction}).pdf',
                      as_attachment=True)
 
 # --- 7. 메인 실행 ---
