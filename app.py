@@ -369,115 +369,6 @@ def create_fleet_images(Name, Faction, Fleetlist, ImageList):
 
 
 # --- 6. 웹 UI 및 라우팅 ---
-
-# # 루트 페이지: 텍스트 입력 폼 보여줌
-# @app.route('/', methods=['GET'])
-# def index():
-#     return '''
-#     <!doctype html>
-#     <html>
-#     <head>
-#       <meta charset="utf-8">
-#       <title>함대 이미지 생성기</title>
-#     </head>
-#     <body>
-#       <h1>함대 텍스트 입력</h1>
-#       <form method="post" action="/generate">
-#         <textarea name="fleet_text" rows="20" cols="80" placeholder="여기에 함대 텍스트를 붙여넣으세요"></textarea><br/>
-#         <button type="submit">생성</button>
-#       </form>
-#       <p>※ 입력 텍스트 예시:</p>
-#       <pre>Name: Untitled Fleet
-# Faction: Imperial
-# Commander: Grand Moff Tarkin
-
-# Assault:
-# Defense:
-# Navigation:
-
-# ISD Kuat Refit (112)
-# • Grand Moff Tarkin (28)
-# • Wulff Yularen (7)
-# • Veteran Gunners (5)
-# • High-Capacity Ion Turbines (6)
-# • Assault Concussion Missiles (5)
-# = 163 Points
-
-# Onager Testbed (116)
-# • Weapons Liaison (3)
-# • Gunnery Team (7)
-# • Local Fire Control (4)
-# • Orbital Bombardment Particle Cannons (5)
-# • Cataclysm (5)
-# = 140 Points
-
-# Squadrons:
-# • Howlrunner (16)
-# • Mauler Mithel (15)
-# • Boba Fett (24)
-# • Darth Vader (TIE Advanced) (21)
-# • Soontir Fel (18)
-# = 94 Points
-
-# Total Points: 397</pre>
-#     </body>
-#     </html>
-#     '''
-
-# # 이미지 생성 및 결과 출력
-# @app.route('/generate', methods=['POST'])
-# def generate():
-#     fleet_text = request.form.get('fleet_text', '')
-#     if not fleet_text.strip():
-#         return '함대 텍스트를 입력하세요', 400
-
-#     try:
-#         # 1. 텍스트 파싱
-#         Name, Faction, Commander, Fleetlist = parse_fleet_text(fleet_text)
-
-#         # 2. 이미지 로드
-#         ImageList, error = load_images(Fleetlist)
-#         if error:
-#             return f"<h2>오류 발생:</h2><p>{error}</p>"
-
-#         # 3. 이미지 합성
-#         output_images = create_fleet_images(Name, Faction, Fleetlist, ImageList)
-
-#         # 4. 이미지들을 웹에서 바로 보여주기 위한 base64 변환
-#         images_html = ''
-#         for idx, img in enumerate(output_images):
-#             img_io = BytesIO()
-#             img.save(img_io, 'WEBP')
-#             img_io.seek(0)
-#             img_b64 = base64.b64encode(img_io.read()).decode('ascii')
-#             images_html += f'''
-
-#             <div style="margin-bottom:30px;">
-#             <img src="data:image/webp;base64,{img_b64}" style="max-width:90%;border:1px solid #333;"/><br/>
-#             <a download="fleet_image_{idx+1}.webp" href="data:image/webp;base64,{img_b64}" style="font-size:16px;">이미지 저장</a>
-#             </div>
-#             '''
-
-#         return f'''
-#         <!doctype html>
-#         <html>
-#         <head>
-#           <meta charset="utf-8">
-#           <title>생성된 함대 이미지</title>
-#         </head>
-#         <body>
-#           <h1>생성된 이미지들</h1>
-#           {images_html}
-#           <a href="/" style="font-size:18px;">새로 입력하기</a>
-#         </body>
-#         </html>
-#         '''
-
-#     except Exception as e:
-#         return f"<h2>오류 발생:</h2><pre>{e}</pre>"
-
-
-
 # 루트 페이지: 텍스트 입력 폼 보여줌 (CSS 적용)
 @app.route('/', methods=['GET'])
 def index():
@@ -562,7 +453,7 @@ def index():
     <body>
       <h1>함대 텍스트 입력</h1>
       <form method="post" action="/generate" autocomplete="off" spellcheck="false">
-        <textarea name="fleet_text" placeholder="여기에 함대 텍스트를 붙여넣으세요"></textarea>
+        <textarea name="fleet_text" placeholder="여기에 Army Builder로 생성한 함대 리스트 텍스트를 붙여넣으세요(그대로 붙여넣으면 됩니다)."></textarea>
         <button type="submit">이미지 생성</button>
       </form>
     '''
