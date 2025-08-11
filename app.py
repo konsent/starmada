@@ -635,9 +635,6 @@ def generate():
           </form>
           <br>
 
-          
-
-
           {images_html}
           <a href="/" class="back-link">&larr; 새로 입력하기</a>
 
@@ -646,6 +643,10 @@ def generate():
             <span class="modal-close" id="modalClose">&times;</span>
             <img class="modal-content" id="modalImage" />
           </div>
+
+          <footer style="text-align:center; padding:15px 0; font-size:14px; color:#666; border-top:1px solid #ccc; margin-top:40px;">
+            출처: Big.D (원본 출처 README 참조)
+            </footer>
 
           <script>
             const modal = document.getElementById('imgModal');
