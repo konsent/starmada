@@ -705,7 +705,7 @@ def generate():
           </style>
         </head>
         <body>
-          <h1>생성된 이미지들 - {Name} ({Faction})</h1>
+          <h1>{Name} ({Faction})</h1>
           {images_html}
           <a href="/" class="back-link">&larr; 새로 입력하기</a>
 
